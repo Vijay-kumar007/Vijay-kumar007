@@ -1,63 +1,24 @@
 
+# Hi, I'm Vijay Kumar 👋
 
-<h1 align="center">Hey, I'm Vijay Kumar 👋</h1>
+### Computer Science Engineering Student | Aspiring Software Developer
 
-<h3 align="center">Computer Science Engineer | Aspiring Software Developer</h3>
-
-<p align="center">
-  💻 Java Developer • 🚀 Problem Solver • 📍 Chennai, India
-</p>
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 About Me
-
-- Interested in backend development
-- Learning Data Structures & Algorithms
-- Building real-world projects
-- Exploring software engineering
-
-</td>
-<td width="50%" valign="top">
+- 💻 Interested in Java Backend Development
+- 🌱 Currently improving my DSA and problem-solving skills
+- 🚀 Building projects and learning new technologies
+- 📍 Chennai, India
 
 ### 🛠️ Tech Stack
+Java | Python | JavaScript | HTML | CSS | SQL
 
-- **Languages:** Java, Python, JavaScript
-- **Frontend:** HTML, CSS
-- **Backend:** Java
-- **Database:** SQL
-- **Tools:** Git, GitHub
+### 📊 GitHub Statistics
 
-</td>
-</tr>
-</table>
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay-kumar007&show_icons=true&theme=tokyonight)
 
----
+### 💻 Most Used Languages
 
-### 🚀 Featured Projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-kumar007&layout=compact&theme=tokyonight)
 
-| Project | Technology |
-|:---|:---|
-| Expense Tracker Backend | Java |
-| Expense Tracker Frontend | JavaScript |
-| E-commerce App | TypeScript |
-| Portfolio | HTML |
+### 🔥 Contribution Streak
 
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Vijay-kumar007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Vijay-kumar007&theme=tokyonight)
