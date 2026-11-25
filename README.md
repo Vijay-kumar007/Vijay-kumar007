@@ -1,24 +1,44 @@
 
-# Hi, I'm Vijay Kumar 👋
 
-### Computer Science Engineering Student | Aspiring Software Developer
+### 📊 GitHub Dashboard
 
-- 💻 Interested in Java Backend Development
-- 🌱 Currently improving my DSA and problem-solving skills
-- 🚀 Building projects and learning new technologies
-- 📍 Chennai, India
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🛠️ Tech Stack
-Java | Python | JavaScript | HTML | CSS | SQL
+**📈 GitHub Statistics**
 
-### 📊 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=Vijay-kumar007&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay-kumar007&show_icons=true&theme=tokyonight)
+</td>
+<td width="50%" valign="top">
 
-### 💻 Most Used Languages
+**📅 Contribution Graph**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-kumar007&layout=compact&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay-kumar007&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-### 🔥 Contribution Streak
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vijay-kumar007&theme=tokyonight)
+**💻 Most Used Languages**
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-kumar007&layout=compact&theme=tokyonight&hide_border=true" width="65%" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🔥 Contribution Streak**
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Vijay-kumar007&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+</td>
+</tr>
+</table>
