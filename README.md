@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Vijay-kumar007/Vijay-kumar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vijay Kumar 👋
 
-Here are some ideas to get you started:
+### Computer Science Engineering Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Java Backend Development
+- 🌱 Currently improving my DSA and problem-solving skills
+- 🚀 Building projects and learning new technologies
+- 📍 Chennai, India
+
+### 🛠️ Tech Stack
+Java | Python | JavaScript | HTML | CSS | SQL
+
+### 📊 GitHub Statistics
+
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay-kumar007&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-kumar007&layout=compact&theme=tokyonight)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vijay-kumar007&theme=tokyonight)
+
+### 📈 Contribution Graph
+
+![Vijay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijay-kumar007&theme=tokyo-night)
